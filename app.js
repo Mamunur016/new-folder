@@ -30,3 +30,5 @@ const saveDb = (db) => {
     const jsonDb = JSON.stringify(db);
     localStorage.setItem("shopping-cart", jsonDb);
 }
+
+/// tor matha ki thik ache vai
